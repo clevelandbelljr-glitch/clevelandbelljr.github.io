@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.obsidian/
+.obsidian
+# Visual Studio temporary files
+.vs/
